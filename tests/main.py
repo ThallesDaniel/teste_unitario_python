@@ -8,7 +8,7 @@ def encontrar_duplicados(json_data, chave):
             valor_chave = item[chave]
             if valor_chave in duplicados:
                 duplicados[valor_chave].append(item)
-            else:
+            else: 
                 duplicados[valor_chave] = [item]
     return {chave: itens for chave, itens in duplicados.items() if len(itens) > 1}
 #...

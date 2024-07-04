@@ -10,7 +10,7 @@ def test_encontrar_duplicados():
             {"id": 2, "nome": "Bob"},
             {"id": 3, "nome": "Alice"},
             {"id": 4, "nome": "Charlie"},
-            {"id": 5, "nome": "Bob"}
+            {"id": 5, "nome": "Bob"} 
         ]
     }
 
