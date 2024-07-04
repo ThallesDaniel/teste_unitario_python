@@ -1,0 +1,30 @@
+Duplicados para a chave "João":
+{
+    "id": 1,
+    "nome": "João",
+    "idade": 30,
+    "cidade": "São Paulo"
+}
+
+{
+    "id": 3,
+    "nome": "João",
+    "idade": 35,
+    "cidade": "Belo Horizonte"
+}
+
+Duplicados para a chave "Maria":
+{
+    "id": 2,
+    "nome": "Maria",
+    "idade": 25,
+    "cidade": "Rio de Janeiro"
+}
+
+{
+    "id": 5,
+    "nome": "Maria",
+    "idade": 28,
+    "cidade": "Curitiba"
+}
+
