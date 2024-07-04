@@ -35,7 +35,7 @@ def test_encontrar_duplicados():
 #...
 def test_arquivo_json_inexistente():
     with pytest.raises(FileNotFoundError):
-        with open("arquivo_inexistente.json", "r") as arquivo_json:
+        with open("teste.json", "r") as arquivo_json:
             dados = json.load(arquivo_json)
 
 def test_chave_inexistente():
